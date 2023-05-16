@@ -1,0 +1,6 @@
+C:\Users\Gabri\OneDrive\Documentos\GitHub\Programacion1-Gmajluf\TP\Biblioteca\LogicaClases\bin\Debug\LogicaClases.dll
+C:\Users\Gabri\OneDrive\Documentos\GitHub\Programacion1-Gmajluf\TP\Biblioteca\LogicaClases\bin\Debug\LogicaClases.pdb
+C:\Users\Gabri\OneDrive\Documentos\GitHub\Programacion1-Gmajluf\TP\Biblioteca\LogicaClases\obj\Debug\LogicaClases.csproj.AssemblyReference.cache
+C:\Users\Gabri\OneDrive\Documentos\GitHub\Programacion1-Gmajluf\TP\Biblioteca\LogicaClases\obj\Debug\LogicaClases.csproj.CoreCompileInputs.cache
+C:\Users\Gabri\OneDrive\Documentos\GitHub\Programacion1-Gmajluf\TP\Biblioteca\LogicaClases\obj\Debug\LogicaClases.dll
+C:\Users\Gabri\OneDrive\Documentos\GitHub\Programacion1-Gmajluf\TP\Biblioteca\LogicaClases\obj\Debug\LogicaClases.pdb

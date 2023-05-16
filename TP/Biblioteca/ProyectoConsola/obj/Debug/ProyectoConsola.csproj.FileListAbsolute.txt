@@ -1,0 +1,11 @@
+C:\Users\Gabri\OneDrive\Documentos\GitHub\Programacion1-Gmajluf\TP\Biblioteca\ProyectoConsola\bin\Debug\ProyectoConsola.exe.config
+C:\Users\Gabri\OneDrive\Documentos\GitHub\Programacion1-Gmajluf\TP\Biblioteca\ProyectoConsola\bin\Debug\ProyectoConsola.exe
+C:\Users\Gabri\OneDrive\Documentos\GitHub\Programacion1-Gmajluf\TP\Biblioteca\ProyectoConsola\bin\Debug\ProyectoConsola.pdb
+C:\Users\Gabri\OneDrive\Documentos\GitHub\Programacion1-Gmajluf\TP\Biblioteca\ProyectoConsola\bin\Debug\LogicaClases.dll
+C:\Users\Gabri\OneDrive\Documentos\GitHub\Programacion1-Gmajluf\TP\Biblioteca\ProyectoConsola\bin\Debug\LogicaClases.pdb
+C:\Users\Gabri\OneDrive\Documentos\GitHub\Programacion1-Gmajluf\TP\Biblioteca\ProyectoConsola\obj\Debug\ProyectoConsola.csproj.AssemblyReference.cache
+C:\Users\Gabri\OneDrive\Documentos\GitHub\Programacion1-Gmajluf\TP\Biblioteca\ProyectoConsola\obj\Debug\ProyectoConsola.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gabri\OneDrive\Documentos\GitHub\Programacion1-Gmajluf\TP\Biblioteca\ProyectoConsola\obj\Debug\ProyectoConsola.csproj.CoreCompileInputs.cache
+C:\Users\Gabri\OneDrive\Documentos\GitHub\Programacion1-Gmajluf\TP\Biblioteca\ProyectoConsola\obj\Debug\ProyectoConsola.csproj.CopyComplete
+C:\Users\Gabri\OneDrive\Documentos\GitHub\Programacion1-Gmajluf\TP\Biblioteca\ProyectoConsola\obj\Debug\ProyectoConsola.exe
+C:\Users\Gabri\OneDrive\Documentos\GitHub\Programacion1-Gmajluf\TP\Biblioteca\ProyectoConsola\obj\Debug\ProyectoConsola.pdb
