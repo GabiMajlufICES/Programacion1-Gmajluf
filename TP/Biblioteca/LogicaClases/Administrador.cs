@@ -8,7 +8,7 @@ namespace LogicaClases
 {
     public class Administrador : Persona
     {
-        public int id { get; set; }
-        public Usuario usuarioAdministrador { get; set; }
+        public int Id { get; set; }
+        public Usuario UsuarioAdministrador { get; set; }
     }
 }

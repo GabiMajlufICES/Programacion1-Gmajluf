@@ -33,24 +33,8 @@ namespace LogicaClases
             ListaUsuarios.Add(clienteNuevo.usuarioCliente);
         }
 
-        public void AltaClienteSegundaForma(Cliente cliente)
-        {
-            Cliente clienteNuevo = new Cliente();
-            var cantidadRegistros = ListaClientes.Count(); //Obtengo cantidad de registros de la lista
-
-            clienteNuevo.id = cantidadRegistros + 1; //Hago cantidad de registros de lista + 1
-            clienteNuevo.dni = cliente.dni;
-            clienteNuevo.nombre = cliente.nombre;
-            clienteNuevo.apellido = cliente.apellido;
-            clienteNuevo.fechaNacimiento = cliente.fechaNacimiento;
-            ListaClientes.Add(clienteNuevo);
-        }
-
         public List<Cliente> MostrarLista() 
-        {
-
-            
-
+        {           
             return ListaClientes; 
         }
 
