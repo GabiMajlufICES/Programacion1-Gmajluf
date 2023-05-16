@@ -15,19 +15,23 @@ namespace ProyectoConsola
             Principal principal = new Principal();           
             
             Cliente clienteAgregado = new Cliente();
-            Console.WriteLine("Agrega una persona");
+            Console.WriteLine("Agregar un cliente");
 
-            Console.WriteLine("Arranca con el dni");
+            Console.WriteLine("Inserte el DNI");
             clienteAgregado.dni = int.Parse(Console.ReadLine());
-            Console.WriteLine("Segui con el nombre");
+            Console.WriteLine("Inserte el Nombre");
             clienteAgregado.nombre = Console.ReadLine();
-            Console.WriteLine("Segui con el Apellido");
+            Console.WriteLine("Inserte el Apellido");
             clienteAgregado.apellido = Console.ReadLine();
-            Console.WriteLine("Termina con la fecha de nacimiento");
+            Console.WriteLine("Inserte la Fecha de Nacimiento");
             clienteAgregado.fechaNacimiento = DateTime.Parse(Console.ReadLine());
+            Console.WriteLine("Inserte la contrasenia");
+            clienteAgregado.usuarioCliente.contrasenia = Console.ReadLine();
+
 
             principal.AltaCliente(clienteAgregado.dni, clienteAgregado.nombre,
-                clienteAgregado.apellido, clienteAgregado.fechaNacimiento);
+                clienteAgregado.apellido, clienteAgregado.fechaNacimiento, 
+                clienteAgregado.usuarioCliente.contrasenia);
 
 
 

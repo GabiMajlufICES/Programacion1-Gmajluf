@@ -8,6 +8,7 @@ namespace LogicaClases
 {
     public class Principal
     {
+        List<Usuario> ListaUsuarios = new List<Usuario>();
         List<Cliente> ListaClientes = new List<Cliente>();
         List<Prestamo> ListaPrestamos = new List<Prestamo>();
         List<Libro> ListaLibros = new List<Libro>();
@@ -16,17 +17,20 @@ namespace LogicaClases
         { 
             Cliente clienteNuevo = new Cliente();
             
-            var cantidadRegistros = ListaClientes.Count(); //Obtengo cantidad de registros de la lista
-            
-            clienteNuevo.id = cantidadRegistros + 1; //Hago cantidad de registros de lista + 1
+            var cantidadRegistrosCli = ListaClientes.Count(); //Obtengo cantidad de registros de la lista            
+            clienteNuevo.id = cantidadRegistrosCli + 1; //Hago cantidad de registros de lista + 1
             clienteNuevo.dni = dni;
             clienteNuevo.nombre = nombre;
             clienteNuevo.apellido = apellido;
             clienteNuevo.fechaNacimiento = fechaNac;
+
+            var cantidadRegistrosUsu = ListaUsuarios.Count();
+            clienteNuevo.usuarioCliente.id = cantidadRegistrosUsu + 1;
             clienteNuevo.usuarioCliente.nombre = String.Concat(nombre,".",apellido);
             clienteNuevo.usuarioCliente.contrasenia = contrasenia;
 
             ListaClientes.Add(clienteNuevo);
+            ListaUsuarios.Add(clienteNuevo.usuarioCliente);
         }
 
         public void AltaClienteSegundaForma(Cliente cliente)
