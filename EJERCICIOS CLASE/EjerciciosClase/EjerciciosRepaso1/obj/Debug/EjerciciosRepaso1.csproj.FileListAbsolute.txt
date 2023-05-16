@@ -1,8 +1,0 @@
-C:\Users\Gabri\OneDrive\Documentos\GitHub\Programacion1-Gmajluf\EJERCICIOS CLASE\EjerciciosClase\EjerciciosRepaso1\bin\Debug\EjerciciosRepaso1.exe.config
-C:\Users\Gabri\OneDrive\Documentos\GitHub\Programacion1-Gmajluf\EJERCICIOS CLASE\EjerciciosClase\EjerciciosRepaso1\bin\Debug\EjerciciosRepaso1.exe
-C:\Users\Gabri\OneDrive\Documentos\GitHub\Programacion1-Gmajluf\EJERCICIOS CLASE\EjerciciosClase\EjerciciosRepaso1\bin\Debug\EjerciciosRepaso1.pdb
-C:\Users\Gabri\OneDrive\Documentos\GitHub\Programacion1-Gmajluf\EJERCICIOS CLASE\EjerciciosClase\EjerciciosRepaso1\obj\Debug\EjerciciosRepaso1.csproj.AssemblyReference.cache
-C:\Users\Gabri\OneDrive\Documentos\GitHub\Programacion1-Gmajluf\EJERCICIOS CLASE\EjerciciosClase\EjerciciosRepaso1\obj\Debug\EjerciciosRepaso1.csproj.SuggestedBindingRedirects.cache
-C:\Users\Gabri\OneDrive\Documentos\GitHub\Programacion1-Gmajluf\EJERCICIOS CLASE\EjerciciosClase\EjerciciosRepaso1\obj\Debug\EjerciciosRepaso1.csproj.CoreCompileInputs.cache
-C:\Users\Gabri\OneDrive\Documentos\GitHub\Programacion1-Gmajluf\EJERCICIOS CLASE\EjerciciosClase\EjerciciosRepaso1\obj\Debug\EjerciciosRepaso1.exe
-C:\Users\Gabri\OneDrive\Documentos\GitHub\Programacion1-Gmajluf\EJERCICIOS CLASE\EjerciciosClase\EjerciciosRepaso1\obj\Debug\EjerciciosRepaso1.pdb
