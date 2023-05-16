@@ -11,6 +11,8 @@ namespace LogicaClases
         public int id { get; set; }
         public Usuario usuarioCliente { get; set; }
 
+        public bool Estado { get; set; } //Si esta en true esta activo y sino esta dado de baja
+
 
 
     }

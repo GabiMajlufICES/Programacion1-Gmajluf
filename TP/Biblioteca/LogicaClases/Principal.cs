@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Net;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -31,6 +32,33 @@ namespace LogicaClases
 
             ListaClientes.Add(clienteNuevo);
             ListaUsuarios.Add(clienteNuevo.usuarioCliente);
+        }
+
+        public void modificarCliente(int id) 
+        { 
+            Cliente clienteModificado = new Cliente();
+            
+            var clienteEncontrado = ListaClientes.Find(x => x.id == id);
+            
+            if (clienteEncontrado != null) 
+            {
+                clienteModificado.id = clienteEncontrado.id;
+                clienteModificado.Estado = false;
+                //clienteModificado.dni = dni;
+                //clienteModificado.nombre = clienteNuevo.nombre;
+                //clienteModificado.apellido = clienteNuevo.apellido;
+                //clienteModificado.fechaNacimiento = clienteNuevo.fechaNacimiento;
+
+                ListaClientes.Add(clienteModificado);
+                ListaClientes.Remove(clienteEncontrado);
+            }
+        }
+
+        public void eliminarCliente(int id)
+        {
+            var clienteEncontrado = ListaClientes.Find(x => x.id == id);
+            ListaClientes.Remove(clienteEncontrado);
+            
         }
 
         public List<Cliente> MostrarLista() 
