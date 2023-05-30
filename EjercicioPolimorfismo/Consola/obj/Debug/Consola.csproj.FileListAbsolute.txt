@@ -1,0 +1,11 @@
+C:\Users\Gabri\source\repos\EjercicioPolimorfismo\Consola\bin\Debug\Consola.exe.config
+C:\Users\Gabri\source\repos\EjercicioPolimorfismo\Consola\bin\Debug\Consola.exe
+C:\Users\Gabri\source\repos\EjercicioPolimorfismo\Consola\bin\Debug\Consola.pdb
+C:\Users\Gabri\source\repos\EjercicioPolimorfismo\Consola\bin\Debug\Logica.dll
+C:\Users\Gabri\source\repos\EjercicioPolimorfismo\Consola\bin\Debug\Logica.pdb
+C:\Users\Gabri\source\repos\EjercicioPolimorfismo\Consola\obj\Debug\Consola.csproj.AssemblyReference.cache
+C:\Users\Gabri\source\repos\EjercicioPolimorfismo\Consola\obj\Debug\Consola.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gabri\source\repos\EjercicioPolimorfismo\Consola\obj\Debug\Consola.csproj.CoreCompileInputs.cache
+C:\Users\Gabri\source\repos\EjercicioPolimorfismo\Consola\obj\Debug\Consola.csproj.CopyComplete
+C:\Users\Gabri\source\repos\EjercicioPolimorfismo\Consola\obj\Debug\Consola.exe
+C:\Users\Gabri\source\repos\EjercicioPolimorfismo\Consola\obj\Debug\Consola.pdb

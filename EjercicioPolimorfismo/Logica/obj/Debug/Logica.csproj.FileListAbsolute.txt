@@ -1,0 +1,6 @@
+C:\Users\Gabri\source\repos\EjercicioPolimorfismo\Logica\bin\Debug\Logica.dll
+C:\Users\Gabri\source\repos\EjercicioPolimorfismo\Logica\bin\Debug\Logica.pdb
+C:\Users\Gabri\source\repos\EjercicioPolimorfismo\Logica\obj\Debug\Logica.csproj.AssemblyReference.cache
+C:\Users\Gabri\source\repos\EjercicioPolimorfismo\Logica\obj\Debug\Logica.csproj.CoreCompileInputs.cache
+C:\Users\Gabri\source\repos\EjercicioPolimorfismo\Logica\obj\Debug\Logica.dll
+C:\Users\Gabri\source\repos\EjercicioPolimorfismo\Logica\obj\Debug\Logica.pdb
