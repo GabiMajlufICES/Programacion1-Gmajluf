@@ -1,0 +1,12 @@
+C:\Users\Gabri\source\repos\PracticaParcial\Frontend\bin\Debug\Frontend.exe.config
+C:\Users\Gabri\source\repos\PracticaParcial\Frontend\bin\Debug\Frontend.exe
+C:\Users\Gabri\source\repos\PracticaParcial\Frontend\bin\Debug\Frontend.pdb
+C:\Users\Gabri\source\repos\PracticaParcial\Frontend\obj\Debug\Frontend.csproj.AssemblyReference.cache
+C:\Users\Gabri\source\repos\PracticaParcial\Frontend\obj\Debug\Frontend.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gabri\source\repos\PracticaParcial\Frontend\obj\Debug\Frontend.Form1.resources
+C:\Users\Gabri\source\repos\PracticaParcial\Frontend\obj\Debug\Frontend.Properties.Resources.resources
+C:\Users\Gabri\source\repos\PracticaParcial\Frontend\obj\Debug\Frontend.csproj.GenerateResource.cache
+C:\Users\Gabri\source\repos\PracticaParcial\Frontend\obj\Debug\Frontend.csproj.CoreCompileInputs.cache
+C:\Users\Gabri\source\repos\PracticaParcial\Frontend\obj\Debug\Frontend.exe
+C:\Users\Gabri\source\repos\PracticaParcial\Frontend\obj\Debug\Frontend.pdb
+C:\Users\Gabri\source\repos\PracticaParcial\Frontend\obj\Debug\Frontend.AltaCliente.resources
