@@ -23,5 +23,12 @@ namespace Frontend
             altaCliente.Show();
            this.Hide();
         }
+
+        private void listaToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            FrmListaClientes frmListaClientes = new FrmListaClientes();
+            frmListaClientes.Show();
+            this.Hide();
+        }
     }
 }

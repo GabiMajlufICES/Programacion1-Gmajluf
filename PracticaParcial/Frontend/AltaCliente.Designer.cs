@@ -35,6 +35,7 @@
             this.label2 = new System.Windows.Forms.Label();
             this.textBox_Apellido = new System.Windows.Forms.TextBox();
             this.label3 = new System.Windows.Forms.Label();
+            this.btn_Guardar = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // btn_Volver
@@ -95,11 +96,22 @@
             this.label3.TabIndex = 5;
             this.label3.Text = "Apellido";
             // 
+            // btn_Guardar
+            // 
+            this.btn_Guardar.Location = new System.Drawing.Point(560, 73);
+            this.btn_Guardar.Name = "btn_Guardar";
+            this.btn_Guardar.Size = new System.Drawing.Size(167, 88);
+            this.btn_Guardar.TabIndex = 7;
+            this.btn_Guardar.Text = "Guardar";
+            this.btn_Guardar.UseVisualStyleBackColor = true;
+            this.btn_Guardar.Click += new System.EventHandler(this.btn_Guardar_Click);
+            // 
             // AltaCliente
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.btn_Guardar);
             this.Controls.Add(this.textBox_Apellido);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.textBox_Nombre);
@@ -123,5 +135,6 @@
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.TextBox textBox_Apellido;
         private System.Windows.Forms.Label label3;
+        private System.Windows.Forms.Button btn_Guardar;
     }
 }
