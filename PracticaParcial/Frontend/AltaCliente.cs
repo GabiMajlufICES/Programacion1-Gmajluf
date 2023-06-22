@@ -31,10 +31,16 @@ namespace Frontend
             Principal principal = new Principal();
 
             Cliente clienteNuevo = new Cliente();
-            clienteNuevo.dni = int.Parse(textBox_Dni.ToString());
+            clienteNuevo.dni = int.Parse(textBox_Dni.Text);
             clienteNuevo.nombre = textBox_Nombre.ToString();
             clienteNuevo.apellido = textBox_Apellido.ToString();
             principal.AgregarCliente(clienteNuevo);
+
+            MessageBox.Show("Cliente guardado con exito");
+
+            textBox_Dni.Text = "";
+            textBox_Nombre.Text = "";
+            textBox_Apellido.Text = "";
         }
     }
 }

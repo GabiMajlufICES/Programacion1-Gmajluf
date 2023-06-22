@@ -4,3 +4,9 @@ C:\Users\Gabri\source\repos\PracticaParcial\Logica\obj\Debug\Logica.csproj.Assem
 C:\Users\Gabri\source\repos\PracticaParcial\Logica\obj\Debug\Logica.csproj.CoreCompileInputs.cache
 C:\Users\Gabri\source\repos\PracticaParcial\Logica\obj\Debug\Logica.dll
 C:\Users\Gabri\source\repos\PracticaParcial\Logica\obj\Debug\Logica.pdb
+C:\Users\Gabri\Documents\GitHub\Programacion1-Gmajluf\PracticaParcial\Logica\bin\Debug\Logica.dll
+C:\Users\Gabri\Documents\GitHub\Programacion1-Gmajluf\PracticaParcial\Logica\bin\Debug\Logica.pdb
+C:\Users\Gabri\Documents\GitHub\Programacion1-Gmajluf\PracticaParcial\Logica\obj\Debug\Logica.csproj.AssemblyReference.cache
+C:\Users\Gabri\Documents\GitHub\Programacion1-Gmajluf\PracticaParcial\Logica\obj\Debug\Logica.csproj.CoreCompileInputs.cache
+C:\Users\Gabri\Documents\GitHub\Programacion1-Gmajluf\PracticaParcial\Logica\obj\Debug\Logica.dll
+C:\Users\Gabri\Documents\GitHub\Programacion1-Gmajluf\PracticaParcial\Logica\obj\Debug\Logica.pdb

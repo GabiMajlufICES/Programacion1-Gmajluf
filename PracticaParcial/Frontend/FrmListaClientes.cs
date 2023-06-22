@@ -13,7 +13,6 @@ namespace Frontend
 {
     public partial class FrmListaClientes : Form
     {
-        Principal principal = new Principal();
         public FrmListaClientes()
         {
             InitializeComponent();           
@@ -22,7 +21,26 @@ namespace Frontend
         private void FrmListaClientes_Load(object sender, EventArgs e)
         {
             Principal principal = new Principal();
-            dataGridView1.DataSource = principal.ListaClientes;
+
+            Cliente cliente = new Cliente();
+            cliente.dni = 41288872;
+            cliente.nombre = "Gabriel";
+            cliente.apellido = "Majluf";
+
+            principal.AgregarCliente(cliente);
+            
+            dataGridView1.DataSource = null;
+            List<Cliente> listaClientesForm = principal.ListaClientes;
+            dataGridView1.DataSource = listaClientesForm;
+            dataGridView1.Columns.Clear();
+
+            dataGridView1.Columns.Add("Dni", "Dni");
+            dataGridView1.Columns.Add("Nombre", "Nombre");
+            dataGridView1.Columns.Add("Apellido", "Apellido");
+
+            dataGridView1.Columns["Dni"].DataPropertyName = "dni";
+            dataGridView1.Columns["Nombre"].DataPropertyName = "nombre";
+            dataGridView1.Columns["Apellido"].DataPropertyName = "apellido";
         }
     }
 }

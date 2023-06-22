@@ -12,6 +12,8 @@ namespace Frontend
 {
     public partial class Form1 : Form
     {
+        private AltaCliente frmAltaCliente;
+        private FrmListaClientes frmListaClientes;
         public Form1()
         {
             InitializeComponent();
@@ -19,15 +21,24 @@ namespace Frontend
 
         private void altaToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            AltaCliente altaCliente = new AltaCliente();
-            altaCliente.Show();
-           this.Hide();
+            if (frmAltaCliente == null || frmAltaCliente.IsDisposed)
+            {
+                frmAltaCliente = new AltaCliente();
+            }            
+            frmAltaCliente.ShowDialog();
+            this.Hide();
+            //frmListaClientes.ActualizarLista();
         }
 
         private void listaToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            FrmListaClientes frmListaClientes = new FrmListaClientes();
-            frmListaClientes.Show();
+            
+            if (frmListaClientes == null || frmListaClientes.IsDisposed)
+            {
+                frmListaClientes = new FrmListaClientes();
+            }
+
+            frmListaClientes.ShowDialog();
             this.Hide();
         }
     }
