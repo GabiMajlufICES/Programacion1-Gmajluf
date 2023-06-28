@@ -1,0 +1,17 @@
+C:\Users\Gabri\source\repos\ParcialTurnos\Front\bin\Debug\Front.exe.config
+C:\Users\Gabri\source\repos\ParcialTurnos\Front\bin\Debug\Front.exe
+C:\Users\Gabri\source\repos\ParcialTurnos\Front\bin\Debug\Front.pdb
+C:\Users\Gabri\source\repos\ParcialTurnos\Front\bin\Debug\Logica.dll
+C:\Users\Gabri\source\repos\ParcialTurnos\Front\bin\Debug\Logica.pdb
+C:\Users\Gabri\source\repos\ParcialTurnos\Front\obj\Debug\Front.csproj.AssemblyReference.cache
+C:\Users\Gabri\source\repos\ParcialTurnos\Front\obj\Debug\Front.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gabri\source\repos\ParcialTurnos\Front\obj\Debug\Front.Form1.resources
+C:\Users\Gabri\source\repos\ParcialTurnos\Front\obj\Debug\Front.Properties.Resources.resources
+C:\Users\Gabri\source\repos\ParcialTurnos\Front\obj\Debug\Front.csproj.GenerateResource.cache
+C:\Users\Gabri\source\repos\ParcialTurnos\Front\obj\Debug\Front.csproj.CoreCompileInputs.cache
+C:\Users\Gabri\source\repos\ParcialTurnos\Front\obj\Debug\Front.csproj.CopyComplete
+C:\Users\Gabri\source\repos\ParcialTurnos\Front\obj\Debug\Front.exe
+C:\Users\Gabri\source\repos\ParcialTurnos\Front\obj\Debug\Front.pdb
+C:\Users\Gabri\source\repos\ParcialTurnos\Front\obj\Debug\Front.AltaTurnoPresencial.resources
+C:\Users\Gabri\source\repos\ParcialTurnos\Front\obj\Debug\Front.ListaTurnos.resources
+C:\Users\Gabri\source\repos\ParcialTurnos\Front\obj\Debug\Front.BajaTurnoPresencial.resources
