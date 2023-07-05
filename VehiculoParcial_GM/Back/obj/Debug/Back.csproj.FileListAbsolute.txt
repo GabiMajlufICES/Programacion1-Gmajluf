@@ -1,0 +1,6 @@
+C:\Users\Gabri\source\repos\VehiculoParcial_GM\Back\bin\Debug\Back.dll
+C:\Users\Gabri\source\repos\VehiculoParcial_GM\Back\bin\Debug\Back.pdb
+C:\Users\Gabri\source\repos\VehiculoParcial_GM\Back\obj\Debug\Back.csproj.AssemblyReference.cache
+C:\Users\Gabri\source\repos\VehiculoParcial_GM\Back\obj\Debug\Back.csproj.CoreCompileInputs.cache
+C:\Users\Gabri\source\repos\VehiculoParcial_GM\Back\obj\Debug\Back.dll
+C:\Users\Gabri\source\repos\VehiculoParcial_GM\Back\obj\Debug\Back.pdb
