@@ -1,0 +1,15 @@
+C:\Users\Gabri\source\repos\ParcialProductos_GM\Vista_Front\bin\Debug\Vista_Front.exe.config
+C:\Users\Gabri\source\repos\ParcialProductos_GM\Vista_Front\bin\Debug\Vista_Front.exe
+C:\Users\Gabri\source\repos\ParcialProductos_GM\Vista_Front\bin\Debug\Vista_Front.pdb
+C:\Users\Gabri\source\repos\ParcialProductos_GM\Vista_Front\bin\Debug\Logica.dll
+C:\Users\Gabri\source\repos\ParcialProductos_GM\Vista_Front\bin\Debug\Logica.pdb
+C:\Users\Gabri\source\repos\ParcialProductos_GM\Vista_Front\obj\Debug\Vista_Front.csproj.AssemblyReference.cache
+C:\Users\Gabri\source\repos\ParcialProductos_GM\Vista_Front\obj\Debug\Vista_Front.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gabri\source\repos\ParcialProductos_GM\Vista_Front\obj\Debug\Vista_Front.Form1.resources
+C:\Users\Gabri\source\repos\ParcialProductos_GM\Vista_Front\obj\Debug\Vista_Front.frmProductoAlimenticio.resources
+C:\Users\Gabri\source\repos\ParcialProductos_GM\Vista_Front\obj\Debug\Vista_Front.Properties.Resources.resources
+C:\Users\Gabri\source\repos\ParcialProductos_GM\Vista_Front\obj\Debug\Vista_Front.csproj.GenerateResource.cache
+C:\Users\Gabri\source\repos\ParcialProductos_GM\Vista_Front\obj\Debug\Vista_Front.csproj.CoreCompileInputs.cache
+C:\Users\Gabri\source\repos\ParcialProductos_GM\Vista_Front\obj\Debug\Vista_Front.csproj.CopyComplete
+C:\Users\Gabri\source\repos\ParcialProductos_GM\Vista_Front\obj\Debug\Vista_Front.exe
+C:\Users\Gabri\source\repos\ParcialProductos_GM\Vista_Front\obj\Debug\Vista_Front.pdb

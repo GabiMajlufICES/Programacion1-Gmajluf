@@ -64,6 +64,12 @@
     <Compile Include="FrmAltaVehiculoCamioneta.Designer.cs">
       <DependentUpon>FrmAltaVehiculoCamioneta.cs</DependentUpon>
     </Compile>
+    <Compile Include="frmModificarVehiculoAutomovil.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmModificarVehiculoAutomovil.Designer.cs">
+      <DependentUpon>frmModificarVehiculoAutomovil.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Form1.resx">

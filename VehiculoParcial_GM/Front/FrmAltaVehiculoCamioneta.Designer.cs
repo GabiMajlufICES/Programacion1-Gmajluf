@@ -40,11 +40,12 @@
             this.label2 = new System.Windows.Forms.Label();
             this.textPatente = new System.Windows.Forms.TextBox();
             this.label1 = new System.Windows.Forms.Label();
+            this.listBox1 = new System.Windows.Forms.ListBox();
             this.SuspendLayout();
             // 
             // button2
             // 
-            this.button2.Location = new System.Drawing.Point(970, 458);
+            this.button2.Location = new System.Drawing.Point(1049, 537);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(121, 59);
             this.button2.TabIndex = 27;
@@ -54,7 +55,7 @@
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(754, 453);
+            this.button1.Location = new System.Drawing.Point(766, 532);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(135, 64);
             this.button1.TabIndex = 26;
@@ -142,11 +143,21 @@
             this.label1.TabIndex = 14;
             this.label1.Text = "Patente";
             // 
+            // listBox1
+            // 
+            this.listBox1.FormattingEnabled = true;
+            this.listBox1.ItemHeight = 20;
+            this.listBox1.Location = new System.Drawing.Point(766, 125);
+            this.listBox1.Name = "listBox1";
+            this.listBox1.Size = new System.Drawing.Size(404, 304);
+            this.listBox1.TabIndex = 28;
+            // 
             // FrmAltaVehiculoCamioneta
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(1234, 643);
+            this.Controls.Add(this.listBox1);
             this.Controls.Add(this.button2);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.textCantCarga);
@@ -180,5 +191,6 @@
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.TextBox textPatente;
         private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.ListBox listBox1;
     }
 }

@@ -29,8 +29,11 @@ namespace Front
             vehiculoCamioneta.precioXDia = decimal.Parse(textPrecio.Text);
             vehiculoCamioneta.cantidadCarga = int.Parse(textCantCarga.Text);
 
-
             principal.AltaVehiculoCamioneta(vehiculoCamioneta);
+            listBox1.DataSource = null;
+            listBox1.DisplayMember= "VC";
+            listBox1.DataSource = principal.ListaVehiculoCamioneta;
+            
             MessageBox.Show("Vehiculo Camioneta guardado con exito.");
 
             textPatente.Clear();
