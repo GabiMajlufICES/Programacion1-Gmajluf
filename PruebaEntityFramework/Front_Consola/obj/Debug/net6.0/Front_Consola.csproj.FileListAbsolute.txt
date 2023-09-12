@@ -1,0 +1,15 @@
+C:\Users\Gabri\OneDrive\Documentos\GitHub\Programacion1-Gmajluf\PruebaEntityFramework\Front_Consola\bin\Debug\net6.0\Front_Consola.exe
+C:\Users\Gabri\OneDrive\Documentos\GitHub\Programacion1-Gmajluf\PruebaEntityFramework\Front_Consola\bin\Debug\net6.0\Front_Consola.deps.json
+C:\Users\Gabri\OneDrive\Documentos\GitHub\Programacion1-Gmajluf\PruebaEntityFramework\Front_Consola\bin\Debug\net6.0\Front_Consola.runtimeconfig.json
+C:\Users\Gabri\OneDrive\Documentos\GitHub\Programacion1-Gmajluf\PruebaEntityFramework\Front_Consola\bin\Debug\net6.0\Front_Consola.dll
+C:\Users\Gabri\OneDrive\Documentos\GitHub\Programacion1-Gmajluf\PruebaEntityFramework\Front_Consola\bin\Debug\net6.0\Front_Consola.pdb
+C:\Users\Gabri\OneDrive\Documentos\GitHub\Programacion1-Gmajluf\PruebaEntityFramework\Front_Consola\obj\Debug\net6.0\Front_Consola.csproj.AssemblyReference.cache
+C:\Users\Gabri\OneDrive\Documentos\GitHub\Programacion1-Gmajluf\PruebaEntityFramework\Front_Consola\obj\Debug\net6.0\Front_Consola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabri\OneDrive\Documentos\GitHub\Programacion1-Gmajluf\PruebaEntityFramework\Front_Consola\obj\Debug\net6.0\Front_Consola.AssemblyInfoInputs.cache
+C:\Users\Gabri\OneDrive\Documentos\GitHub\Programacion1-Gmajluf\PruebaEntityFramework\Front_Consola\obj\Debug\net6.0\Front_Consola.AssemblyInfo.cs
+C:\Users\Gabri\OneDrive\Documentos\GitHub\Programacion1-Gmajluf\PruebaEntityFramework\Front_Consola\obj\Debug\net6.0\Front_Consola.csproj.CoreCompileInputs.cache
+C:\Users\Gabri\OneDrive\Documentos\GitHub\Programacion1-Gmajluf\PruebaEntityFramework\Front_Consola\obj\Debug\net6.0\Front_Consola.dll
+C:\Users\Gabri\OneDrive\Documentos\GitHub\Programacion1-Gmajluf\PruebaEntityFramework\Front_Consola\obj\Debug\net6.0\refint\Front_Consola.dll
+C:\Users\Gabri\OneDrive\Documentos\GitHub\Programacion1-Gmajluf\PruebaEntityFramework\Front_Consola\obj\Debug\net6.0\Front_Consola.pdb
+C:\Users\Gabri\OneDrive\Documentos\GitHub\Programacion1-Gmajluf\PruebaEntityFramework\Front_Consola\obj\Debug\net6.0\Front_Consola.genruntimeconfig.cache
+C:\Users\Gabri\OneDrive\Documentos\GitHub\Programacion1-Gmajluf\PruebaEntityFramework\Front_Consola\obj\Debug\net6.0\ref\Front_Consola.dll

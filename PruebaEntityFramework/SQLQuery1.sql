@@ -1,15 +1,15 @@
-create database PruebaEF
+create database PruebaEF1
 
-use PruebaEF
+--use PruebaEF
 
 create table Productos 
-( id INT IDENTITY(1,1) PRIMARY KEY,
+( id int IDENTITY(1,1) PRIMARY KEY,
   nombre nvarchar(200), 
   precio float)
 
 use PruebaEF
 
-drop table Productos
+--drop table Productos
  
    
 insert into Productos values ('Martillo' , 10000)

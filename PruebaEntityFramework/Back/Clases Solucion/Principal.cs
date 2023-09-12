@@ -9,7 +9,7 @@ namespace Back
         //Creo una unica instancia en Principal de la BD.
         ApplicationDbContext context = new ApplicationDbContext(); 
         public void AgregarProducto(Producto productoNuevo)
-        {
+        {           
             context.Productos.Add(productoNuevo);
             context.SaveChanges();
         }
@@ -24,7 +24,7 @@ namespace Back
 
                 foreach (var unProducto in Listaproductos)
                 {
-                    resultado.AppendLine($"El producto: {unProducto.nombre} cuesta: {unProducto.precio}"); 
+                    resultado.AppendLine($"El producto: {unProducto.descripcion} cuesta: {unProducto.precio}"); 
                     //Se usa el AppendLine solamente porque lo vamos a mostrar en un unico MessageBox.
                     //Cada vuelta del foreach agrega una linea al mismo string de la vuelta pasada.
                 }
@@ -63,7 +63,7 @@ namespace Back
             {
                 return true; //Encontre el id
             }
-            else 
+            else
             { 
                 return false; //No encontre el id
             }

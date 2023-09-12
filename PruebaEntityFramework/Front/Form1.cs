@@ -14,13 +14,13 @@ namespace Front
         {
             // Agrego uno de prueoba
             Producto productoNuevo = new Producto();
-            productoNuevo.nombre = "Destornillador";
+            productoNuevo.descripcion = "Destornillador";
             productoNuevo.precio = 15000;
 
             Principal principal = new Principal();
             principal.AgregarProducto(productoNuevo);
 
-            MessageBox.Show("Se agrego " + productoNuevo.nombre);
+            MessageBox.Show("Se agrego " + productoNuevo.descripcion);
         }
 
         private void button2_Click(object sender, EventArgs e)

@@ -8,7 +8,7 @@ namespace Back.ConexionBD
         
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlServer("server=GABRIEL\\SQLEXPRESS;database=PruebaEF;trusted_connection=true;Encrypt=False");
+            optionsBuilder.UseSqlServer("server=GABI\\SQLEXPRESS;database=PruebaEF;trusted_connection=true;Encrypt=False");
         }
 
     }

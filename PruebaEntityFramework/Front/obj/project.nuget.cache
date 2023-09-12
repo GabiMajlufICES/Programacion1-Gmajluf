@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "N5Z1v9ZC8Ypg62iQApaKvz6Bujm6mXQDGsG1Iru0E6QUj1J3Y8Cd6WhbHXyyaFcYDsYfwS1rWeCdjK2JY8rvcQ==",
+  "dgSpecHash": "yraqomzB6rLKqnXS1Rbe4jURIGD9H9A8vaCwwwxFCY8WhRvno9f7Jjw+gV4fyTWBz0zCBxo3MAMURXEWCv6xyQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Gabri\\Downloads\\Trabajo\\ICES\\TSDS\\2023\\EntityFramework\\Gabi\\PruebaEntityFramework\\Front\\Front.csproj",
+  "projectFilePath": "C:\\Users\\Gabri\\OneDrive\\Documentos\\GitHub\\Programacion1-Gmajluf\\PruebaEntityFramework\\Front\\Front.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Gabri\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\Gabri\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
